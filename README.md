@@ -27,7 +27,7 @@
 
 
 ## Why DistLock ?
-This library implements the DistLock algorithm introduced by [@antirez](http://antirez.com/), Due to the origin fork from [redlock](https://github.com/glasslion/distlock) has been inactive since 2015, Then this repo was born with additional implementations:
+This library implements the DistLock algorithm introduced by [@antirez](http://antirez.com/), Due to the origin fork from [redlock](https://github.com/glasslion/redlock) has been inactive since 2015, Then this repo was born with additional implementations:
 
 * Bug fix
 * Python3 syntax improvements
